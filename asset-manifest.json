@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/elalgrere/meet.git/static/css/main.073c9b0a.css",
+    "main.js": "/elalgrere/meet.git/static/js/main.7176c055.js",
+    "static/js/787.4b564826.chunk.js": "/elalgrere/meet.git/static/js/787.4b564826.chunk.js",
+    "service-worker.js": "/elalgrere/meet.git/service-worker.js",
+    "static/media/logo.svg": "/elalgrere/meet.git/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/elalgrere/meet.git/index.html",
+    "main.073c9b0a.css.map": "/elalgrere/meet.git/static/css/main.073c9b0a.css.map",
+    "main.7176c055.js.map": "/elalgrere/meet.git/static/js/main.7176c055.js.map",
+    "787.4b564826.chunk.js.map": "/elalgrere/meet.git/static/js/787.4b564826.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7176c055.js"
+  ]
+}
